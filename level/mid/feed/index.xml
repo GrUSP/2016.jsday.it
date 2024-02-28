@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mid &#8211; jsDay 2016</title>
+	<atom:link href="/level/mid/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Out of the browser and onto the streets</title>
+		<link>/talk/out-of-the-browser-and-onto-the-streets/</link>
+		<pubDate>Wed, 06 Apr 2016 13:55:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=496</guid>
+		<description><![CDATA[JavaScript is everywhere! It’s jumped out the browser and into the world around us. You can find it in hardware, music, art, museums and even on aircraft! In this interactive talk we take a look at a project which took JavaScript to the streets, projecting live visuals to music in a *Portable Audio Visual Pack*. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JavaScript is everywhere! It\u2019s jumped out the browser and into the world around us. You can find it in hardware, music, art, museums and even on aircraft! In this interactive talk we take a look at a project which took JavaScript to the streets, projecting live visuals to music in a *Portable Audio Visual Pack*. We\u2019ll break down the software built for the project, which involves audio triggered visuals using the Web Audio API and Web Animation API, with anything you can think of to build in the browser: pure HTML &amp;amp; CSS, SVG and canvas, plus video and images. Then we learn how to mix these visuals, to music, live! You\u2019ll even have a chance to get involve yourself, using your own device - it is the web after all. How do you pick this all up and carry it around the streets you ask? Don\u2019t worry we\u2019ll cover that too. Come and play with some fabulous street art code - it\u2019ll be fun, you\u2019ll learn some cool JavaScript and you\u2019ll be inspired.&quot;}" data-sheets-userformat="{&quot;2&quot;:9089,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">JavaScript is everywhere! It’s jumped out the browser and into the world around us. You can find it in hardware, music, art, museums and even on aircraft! In this interactive talk we take a look at a project which took JavaScript to the streets, projecting live visuals to music in a *Portable Audio Visual Pack*. We’ll break down the software built for the project, which involves audio triggered visuals using the Web Audio API and Web Animation API, with anything you can think of to build in the browser: pure HTML &amp;amp; CSS, SVG and canvas, plus video and images. Then we learn how to mix these visuals, to music, live! You’ll even have a chance to get involve yourself, using your own device &#8211; it is the web after all. How do you pick this all up and carry it around the streets you ask? Don’t worry we’ll cover that too. Come and play with some fabulous street art code &#8211; it’ll be fun, you’ll learn some cool JavaScript and you’ll be inspired.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Modern Websites for the Modern Web</title>
+		<link>/talk/modern-websites-for-the-modern-web/</link>
+		<pubDate>Wed, 06 Apr 2016 13:52:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=491</guid>
+		<description><![CDATA[It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won&#8217;t be able to use them for years &#8211; right? Wrong. Patrick Kettner, the lead developer on Modernizr and PM for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won't be able to use them for years - right? Wrong. Patrick Kettner, the lead developer on Modernizr and PM for Microsoft Edge, will go over how creating feature rich and super fast front end applications, integrating over a dozen cutting edge web features, all while supporting even the oldest of web clients. If you want to see a 100% clientside offline enabled application work in every browser to Mosiac, and even be ported to a command line GUI (yes GUI), come check it out!&quot;}" data-sheets-userformat="{&quot;2&quot;:9089,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won&#8217;t be able to use them for years &#8211; right? Wrong. Patrick Kettner, the lead developer on Modernizr and PM for Microsoft Edge, will go over how creating feature rich and super fast front end applications, integrating over a dozen cutting edge web features, all while supporting even the oldest of web clients. If you want to see a 100% clientside offline enabled application work in every browser to Mosiac, and even be ported to a command line GUI (yes GUI), come check it out!</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Functional Programming and Async Programming Workshop</title>
+		<link>/talk/building-reactive-architectures-2/</link>
+		<pubDate>Wed, 06 Apr 2016 13:50:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=490</guid>
+		<description><![CDATA[What’s does a mouse drag event have in common with an Array of numbers? The answer to this question may surprise you: they are both collections. This key insight holds the key to dramatically simplifying asynchronous programming in Javascript. In this tutorial you will learn how you can use the familiar Javascript Array methods to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;What\u2019s does a mouse drag event have in common with an Array of numbers? The answer to this question may surprise you: they are both collections. This key insight holds the key to dramatically simplifying asynchronous programming in Javascript. In this tutorial you will learn how you can use the familiar Javascript Array methods to create surprisingly expressive asynchronous programs.&quot;}" data-sheets-userformat="{&quot;2&quot;:9091,&quot;3&quot;:[null,0],&quot;4&quot;:[null,2,65280],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">What’s does a mouse drag event have in common with an Array of numbers? The answer to this question may surprise you: they are both collections. This key insight holds the key to dramatically simplifying asynchronous programming in Javascript. In this tutorial you will learn how you can use the familiar Javascript Array methods to create surprisingly expressive asynchronous programs.</span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hunting Treasures with the Physical Web : Adventures with JavaScript and Bluetooth Beacons</title>
+		<link>/talk/hunting-treasures-with-the-physical-web-adventures-with-javascript-and-bluetooth-beacons/</link>
+		<pubDate>Wed, 06 Apr 2016 13:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=484</guid>
+		<description><![CDATA[The number of electronic devices we have around us is gigantic. We need a new interaction model to deal with all these devices, and having a separate native app for each device is impractical. The concept of the ‘Physical Web’ attempts to assign devices with their very own URL, which can be accessed by everyone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The number of electronic devices we have around us is gigantic. We need a new interaction model to deal with all these devices, and having a separate native app for each device is impractical. The concept of the \u2018Physical Web\u2019 attempts to assign devices with their very own URL, which can be accessed by everyone using their web browser. This opens up a lot of possibilities for developers to create new and amazing applications, taking the user\u2019s immediate physical presence into play. We\u2019ll take a look at some use cases, including, but not limited to treasure hunts, contact sharing and indoor navigation. We\u2019ll dive deep into how JavaScript can be used along with Bluetooth-LE and the Eddystone protocol to create great web apps, and understand the concepts at hand.&quot;}" data-sheets-userformat="{&quot;2&quot;:9091,&quot;3&quot;:[null,0],&quot;4&quot;:[null,2,65280],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">The number of electronic devices we have around us is gigantic. We need a new interaction model to deal with all these devices, and having a separate native app for each device is impractical. The concept of the ‘Physical Web’ attempts to assign devices with their very own URL, which can be accessed by everyone using their web browser. This opens up a lot of possibilities for developers to create new and amazing applications, taking the user’s immediate physical presence into play. We’ll take a look at some use cases, including, but not limited to treasure hunts, contact sharing and indoor navigation. We’ll dive deep into how JavaScript can be used along with Bluetooth-LE and the Eddystone protocol to create great web apps, and understand the concepts at hand.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Functional Reactive programming with React.js</title>
+		<link>/talk/functional-reactive-programming-with-react-js-2/</link>
+		<pubDate>Wed, 06 Apr 2016 13:42:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=480</guid>
+		<description><![CDATA[In this talk I&#8217;m going to show how to integrate FRP with React.js, in particular the attendees will understand in deep what is functional reactive programming, how it can be use on a daily basis and which projects could benefits for the adoption of this paradigm. During the presentation I&#8217;ll touch the following topics: . [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;In this talk I'm going to show how to integrate FRP with React.js, in particular the attendees will understand in deep what is functional reactive programming, how it can be use on a daily basis and which projects could benefits for the adoption of this paradigm. During the presentation I'll touch the following topics: . Functional Programming . Functional Reactive Programming . Gentle introduction to RxJS . Integrate React.Js with RxJS (live example)&quot;}" data-sheets-userformat="{&quot;2&quot;:9089,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">In this talk I&#8217;m going to show how to integrate FRP with React.js, in particular the attendees will understand in deep what is functional reactive programming, how it can be use on a daily basis and which projects could benefits for the adoption of this paradigm. During the presentation I&#8217;ll touch the following topics: . Functional Programming . Functional Reactive Programming . Gentle introduction to RxJS . Integrate React.Js with RxJS (live example)</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>(Web?) Components in production</title>
+		<link>/talk/web-components-in-production/</link>
+		<pubDate>Wed, 06 Apr 2016 13:42:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=481</guid>
+		<description><![CDATA[Today the AWS Management Console is created by more than 60 different teams across the world. Each team develops their part of the UI using a wide range of development frameworks and programming languages. This leads to a huge amount of effort spent on creating the same widget set over and over. It also lowers [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Today the AWS Management Console is created by more than 60 different teams across the world. Each team develops their part of the UI using a wide range of development frameworks and programming languages. This leads to a huge amount of effort spent on creating the same widget set over and over. It also lowers the customer experience by having slight differences from page to page. Our team is solving this challenge with a set of framework agnostic components. Initially we started with the idea of the extensible web and web components. However, along the way we learned that we have take a different route. I'll show the unique problems caused by the environment we run in, and how we solved them. I will also go into the technical details of our solution and show how we use our components with other frameworks including GWT, Angular, and React.&quot;}" data-sheets-userformat="{&quot;2&quot;:9091,&quot;3&quot;:[null,0],&quot;4&quot;:[null,2,65280],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">Today the AWS Management Console is created by more than 60 different teams across the world. Each team develops their part of the UI using a wide range of development frameworks and programming languages. This leads to a huge amount of effort spent on creating the same widget set over and over. It also lowers the customer experience by having slight differences from page to page. Our team is solving this challenge with a set of framework agnostic components. Initially we started with the idea of the extensible web and web components. However, along the way we learned that we have take a different route. I&#8217;ll show the unique problems caused by the environment we run in, and how we solved them. I will also go into the technical details of our solution and show how we use our components with other frameworks including GWT, Angular, and React.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Building Reactive Architectures</title>
+		<link>/talk/building-reactive-architectures/</link>
+		<pubDate>Wed, 06 Apr 2016 13:42:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=486</guid>
+		<description><![CDATA[In the past few years, we’ve seen many approaches to the MV* architectures from Backbone, knockout, Angular, and many other frameworks that came and went in between times. Some of these frameworks suffered from performance issues with two way data binding, data loading and so forth. Along came React, getting rid of the two way [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;In the past few years, we\u2019ve seen many approaches to the MV* architectures from Backbone, knockout, Angular, and many other frameworks that came and went in between times. Some of these frameworks suffered from performance issues with two way data binding, data loading and so forth. Along came React, getting rid of the two way data binding, and bringing a new way of thinking of how we design web apps. Let\u2019s take some of those lessons, with immutability, unidirectional data flow, and reactive programming to create new architectures such as those seen in Cycle.js, Yolk.js and even React with RxJS and let your mind run free on these new ideas.&quot;}" data-sheets-userformat="{&quot;2&quot;:9091,&quot;3&quot;:[null,0],&quot;4&quot;:[null,2,65280],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">In the past few years, we’ve seen many approaches to the MV* architectures from Backbone, knockout, Angular, and many other frameworks that came and went in between times. Some of these frameworks suffered from performance issues with two way data binding, data loading and so forth. Along came React, getting rid of the two way data binding, and bringing a new way of thinking of how we design web apps. Let’s take some of those lessons, with immutability, unidirectional data flow, and reactive programming to create new architectures such as those seen in Cycle.js, Yolk.js and even React with RxJS and let your mind run free on these new ideas.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Arbitrary Computation on the GPU Using WebGL</title>
+		<link>/talk/arbitrary-computation-on-the-gpu-using-webgl/</link>
+		<pubDate>Mon, 21 Mar 2016 18:21:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=475</guid>
+		<description><![CDATA[WebGL is already widely in use for 3D graphics and image processing but could be used for much more. We&#8217;ll learn how to pass arbitrary data to the GPU for parallel processing, how to get that processed data back into Javascript, and all the reasons this doesn&#8217;t work even when it should. This talk starts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="[null,2,&quot;WebGL is already widely in use for 3D graphics and image processing but could be used for much more. We'll learn how to pass arbitrary data to the GPU for parallel processing, how to get that processed data back into Javascript, and all the reasons this doesn't work even when it should. This talk starts with a review of WebGL shaders and how data is passed through the WebGL pipeline and processed in parallel. Next I'll show some examples of traditional image processing using WebGL. After that, I'll explain how to pass arbitrary data into the GPU and how to retrieve output from those parallel calculations. Finally, there will be an example of this system in action, and then several examples that don't work as expected with explanations of the limitations of the current WebGL architecture.&quot;]" data-sheets-userformat="[null,null,9089,[null,0],null,null,null,null,null,null,0,4,0,null,null,null,8]">WebGL is already widely in use for 3D graphics and image processing but could be used for much more. We&#8217;ll learn how to pass arbitrary data to the GPU for parallel processing, how to get that processed data back into Javascript, and all the reasons this doesn&#8217;t work even when it should. This talk starts with a review of WebGL shaders and how data is passed through the WebGL pipeline and processed in parallel. Next I&#8217;ll show some examples of traditional image processing using WebGL. After that, I&#8217;ll explain how to pass arbitrary data into the GPU and how to retrieve output from those parallel calculations. Finally, there will be an example of this system in action, and then several examples that don&#8217;t work as expected with explanations of the limitations of the current WebGL architecture.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Forgotten funky functions</title>
+		<link>/talk/forgotten-funky-functions/</link>
+		<pubDate>Mon, 21 Mar 2016 18:20:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=474</guid>
+		<description><![CDATA[People love shiny new frameworks, libraries and features. Yet they forget what the most powerful features of JavaScript are. This talk will help you remember (or discover) those forgotten functions.]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="[null,2,&quot;People love shiny new frameworks, libraries and features. Yet they forget what the most powerful features of JavaScript are. This talk will help you remember (or discover) those forgotten functions.&quot;]" data-sheets-userformat="[null,null,9089,[null,0],null,null,null,null,null,null,0,4,0,null,null,null,8]">People love shiny new frameworks, libraries and features. Yet they forget what the most powerful features of JavaScript are. This talk will help you remember (or discover) those forgotten functions.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Higher Order Components in React</title>
+		<link>/talk/higher-order-components-in-react/</link>
+		<pubDate>Sat, 12 Mar 2016 13:34:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=468</guid>
+		<description><![CDATA[React is &#8220;a Javascript library for building user interfaces&#8221;. The core of React follows many concepts of *Functional Programming*, code composition is one of its main features. In React there are 2 main types of building blocks: **stateful** components and **stateless** components. The former type is defined by elements owning the application logic; this kind [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="[null,2,&quot;React is \&quot;a Javascript library for building user interfaces\&quot;. The core of React follows many concepts of *Functional Programming*, code composition is one of its main features. In React there are 2 main types of building blocks: **stateful** components and **stateless** components. The former type is defined by elements owning the application logic; this kind of components often is bound to external elements and owns a state. The latter type is composed of **pure** components where all dynamic data is received from their props and no internal state is defined. This approach often produces replication of functionalities in several components; **Higher Order Components** (HoC) is the natural solution for this scenario and is a more functional alternative to traditional React **mixins**. An HoC abstracts component functionalities and offers an easy way to compose them when required making the code more maintainable and avoiding duplicates. During the session we will see how to implements this pattern taking attention on its pros and cons.&quot;]" data-sheets-userformat="[null,null,9089,[null,0],null,null,null,null,null,null,0,4,0,null,null,null,8]">React is &#8220;a Javascript library for building user interfaces&#8221;. The core of React follows many concepts of *Functional Programming*, code composition is one of its main features. In React there are 2 main types of building blocks: **stateful** components and **stateless** components. The former type is defined by elements owning the application logic; this kind of components often is bound to external elements and owns a state. The latter type is composed of **pure** components where all dynamic data is received from their props and no internal state is defined. This approach often produces replication of functionalities in several components; **Higher Order Components** (HoC) is the natural solution for this scenario and is a more functional alternative to traditional React **mixins**. An HoC abstracts component functionalities and offers an easy way to compose them when required making the code more maintainable and avoiding duplicates. During the session we will see how to implements this pattern taking attention on its pros and cons.</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:34 by W3 Total Cache -->

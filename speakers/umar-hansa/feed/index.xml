@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Umar Hansa &#8211; jsDay 2016</title>
+	<atom:link href="/speakers/umar-hansa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>A Modern debugging experience using DevTools</title>
+		<link>/talk/a-modern-debugging-experience-using-devtools/</link>
+		<pubDate>Sat, 12 Mar 2016 13:26:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=461</guid>
+		<description><![CDATA[This talk covers modern techniques for JavaScript code. We’ll cover debugging on the web and Node.js. Say goodbye to console.log’s because where we’re going, we won’t need them! A combination of smart breakpoints &#38; live code editing will be enough to solve most common issues. In addition to JS debugging, we’ll take a look at [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This talk covers modern techniques for JavaScript code. We’ll cover debugging on the web and Node.js. Say goodbye to console.log’s because where we’re going, we won’t need them! A combination of smart breakpoints &amp; live code editing will be enough to solve most common issues. In addition to JS debugging, we’ll take a look at some hidden DevTools secrets and recently landed features.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:19 by W3 Total Cache -->

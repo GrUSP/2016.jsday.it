@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alessandro Cinelli &#8211; jsDay 2016</title>
+	<atom:link href="/speakers/alessandro-cinelli/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>The Evolution of Asynchronous JavaScript</title>
+		<link>/talk/the-evolution-of-asynchronous-javascript/</link>
+		<pubDate>Sat, 12 Mar 2016 13:33:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=467</guid>
+		<description><![CDATA[One of JavaScript&#8217;s strengths is how it handles asynchronous code. Async is one of the most important and often misunderstood part of Javascript or any other language. Async is hard because we, as human beings, can’t do two conscious actions at once and think about both of them at the same moment. In this talk [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="[null,2,&quot;One of JavaScript's strengths is how it handles asynchronous code. Async is one of the most important and often misunderstood part of Javascript or any other language. Async is hard because we, as human beings, can\u2019t do two conscious actions at once and think about both of them at the same moment. In this talk we will see how asynchronous JavaScript evolved over the years. It all started with callbacks\u2026 and it landed on generators!&quot;]" data-sheets-userformat="[null,null,9089,[null,0],null,null,null,null,null,null,0,4,0,null,null,null,8]">One of JavaScript&#8217;s strengths is how it handles asynchronous code. Async is one of the most important and often misunderstood part of Javascript or any other language. Async is hard because we, as human beings, can’t do two conscious actions at once and think about both of them at the same moment. In this talk we will see how asynchronous JavaScript evolved over the years. It all started with callbacks… and it landed on generators!</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:38 by W3 Total Cache -->

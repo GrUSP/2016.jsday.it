@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>engish &#8211; jsDay 2016</title>
+	<atom:link href="/language/engish/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Being successful in large projects with Ember.js</title>
+		<link>/talk/being-successful-in-large-projects-with-ember-js/</link>
+		<pubDate>Sat, 12 Mar 2016 13:30:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=464</guid>
+		<description><![CDATA[While Angular and React are still dominant in terms of visibility and popularity, especially larger companies (including LinkedIn, Apple, Square, Yahoo, etc.) use Ember.js to make sure they are successful in larger projects that go on over a long time with many people involved. This talk shows why that is the case, what Ember.js provides [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="[null,2,&quot;While Angular and React are still dominant in terms of visibility and popularity, especially larger companies (including LinkedIn, Apple, Square, Yahoo, etc.) use Ember.js to make sure they are successful in larger projects that go on over a long time with many people involved. This talk shows why that is the case, what Ember.js provides that makes it so well suited for these kinds of projects and how you can benefit from it as well.&quot;]" data-sheets-userformat="[null,null,9089,[null,0],null,null,null,null,null,null,0,4,0,null,null,null,8]">While Angular and React are still dominant in terms of visibility and popularity, especially larger companies (including LinkedIn, Apple, Square, Yahoo, etc.) use Ember.js to make sure they are successful in larger projects that go on over a long time with many people involved. This talk shows why that is the case, what Ember.js provides that makes it so well suited for these kinds of projects and how you can benefit from it as well.</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:35 by W3 Total Cache -->

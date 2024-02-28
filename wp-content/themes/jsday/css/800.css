@@ -1,0 +1,89 @@
+/*
+	All devices @ 800 resolution or lower
+*/
+
+html{
+	-webkit-text-size-adjust: none;
+}
+
+/*grid*/
+div#container, div.container {
+	max-width: 720px;
+}
+
+
+/*site_header*/
+a#main_logo{
+	width: 40%;
+	top: 10px;
+}
+
+#site_menu{
+	margin-top: 10px;
+	margin-bottom: 0;
+	width: 100%;
+}
+#site_menu ul{
+	float: right;
+	width: 62%;
+}
+
+/*#content*/
+#content{
+	padding: 70px 0 140px 0;
+	background-color: transparent;
+	background-image: url(/wp-content/themes/jsday/img/cloud.png), url(/wp-content/themes/jsday/img/top_right.png),url(/wp-content/themes/jsday/img/shuttle_mini.png), url(/wp-content/themes/jsday/img/planets.png);
+	background-position: 0% 12%, 102% 0%, 2% bottom, 98% bottom;
+	background-repeat: no-repeat;
+}
+
+/*claim*/
+h2{
+	font-size: 50px;
+	line-height: 60px;
+	width: 84%;
+}
+
+
+/*social*/
+#social{
+	float: left;
+	width: 64.6%;
+	margin: 0px 1% 30px 1%;
+	background: rgba(255,255,255,.4);
+	padding: 30px 0 30px 0;
+	border-radius: 3px;
+}
+#social ul{
+	margin: 0 auto;
+}
+
+/*sidebar*/
+body#home .sidebar{	
+	margin-top: -120px;
+}
+
+
+/*pagine interne*/
+.speakers_talk dl dt{
+	float: none;
+	margin-right: 0;
+}
+.speakers_talk dl dd{
+	margin-bottom: 5px;
+	border-bottom: 1px solid #ccc;
+}
+
+
+.header_h1 .addthis_toolbox{
+	float: left;
+	margin-left: 0;
+}
+
+
+#social_feed .column_4{
+	width: 48%;
+}
+#social_feed .column_4#flickr_gallery{
+	width: 98%;
+}

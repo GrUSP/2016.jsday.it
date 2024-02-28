@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Matteo Ronchi &#8211; jsDay 2016</title>
+	<atom:link href="/speakers/matteo-ronchi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Higher Order Components in React</title>
+		<link>/talk/higher-order-components-in-react/</link>
+		<pubDate>Sat, 12 Mar 2016 13:34:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=468</guid>
+		<description><![CDATA[React is &#8220;a Javascript library for building user interfaces&#8221;. The core of React follows many concepts of *Functional Programming*, code composition is one of its main features. In React there are 2 main types of building blocks: **stateful** components and **stateless** components. The former type is defined by elements owning the application logic; this kind [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="[null,2,&quot;React is \&quot;a Javascript library for building user interfaces\&quot;. The core of React follows many concepts of *Functional Programming*, code composition is one of its main features. In React there are 2 main types of building blocks: **stateful** components and **stateless** components. The former type is defined by elements owning the application logic; this kind of components often is bound to external elements and owns a state. The latter type is composed of **pure** components where all dynamic data is received from their props and no internal state is defined. This approach often produces replication of functionalities in several components; **Higher Order Components** (HoC) is the natural solution for this scenario and is a more functional alternative to traditional React **mixins**. An HoC abstracts component functionalities and offers an easy way to compose them when required making the code more maintainable and avoiding duplicates. During the session we will see how to implements this pattern taking attention on its pros and cons.&quot;]" data-sheets-userformat="[null,null,9089,[null,0],null,null,null,null,null,null,0,4,0,null,null,null,8]">React is &#8220;a Javascript library for building user interfaces&#8221;. The core of React follows many concepts of *Functional Programming*, code composition is one of its main features. In React there are 2 main types of building blocks: **stateful** components and **stateless** components. The former type is defined by elements owning the application logic; this kind of components often is bound to external elements and owns a state. The latter type is composed of **pure** components where all dynamic data is received from their props and no internal state is defined. This approach often produces replication of functionalities in several components; **Higher Order Components** (HoC) is the natural solution for this scenario and is a more functional alternative to traditional React **mixins**. An HoC abstracts component functionalities and offers an easy way to compose them when required making the code more maintainable and avoiding duplicates. During the session we will see how to implements this pattern taking attention on its pros and cons.</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:40 by W3 Total Cache -->

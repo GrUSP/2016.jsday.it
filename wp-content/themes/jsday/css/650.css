@@ -1,0 +1,86 @@
+/*
+	All devices @ 650 resolution or lower
+*/
+
+/*grid*/
+div#container, div.container {
+	max-width: 610px;
+}
+
+
+/*site_header*/
+a#main_logo{
+	width: 40%;
+	top: 10px;
+}
+
+#site_menu{
+	margin-top: 10px;
+	margin-bottom: 0;
+	width: 100%;
+}
+#site_menu ul{
+	float: right;
+	width: 73%;
+}
+
+/*#content*/
+#content{
+	background-color: transparent;
+	background-image: url(/wp-content/themes/jsday/img/cloud.png), url(/wp-content/themes/jsday/img/top_right.png),url(/wp-content/themes/jsday/img/shuttle_mini.png), url(/wp-content/themes/jsday/img/planets.png);
+	background-position: 90% 16%, 102% 0%, 3% 92%, 98% 92%;
+	background-repeat: no-repeat;
+}
+
+/*claim*/
+
+#claim h2{
+	font-size: 40px;
+	line-height: 50px;
+	width: 70%;
+	padding: 90px 0 50px 0;
+}
+
+/*social*/
+#social{
+	width: 94%;
+	float: left;
+	margin-left: 3%;
+}
+
+
+.main{	
+	width: 98%;
+}
+
+.sidebar{	
+	float: none;
+	width: 98%;
+}
+
+
+
+#featured_sponsors{
+	clear: both;
+}
+
+#featured_sponsors a.banner{
+	width: 48%;
+	float: left;
+}
+
+
+#nletter{
+	margin-bottom: 30px;
+}
+
+
+
+/*pagine interne*/
+#verona_nord, #verona_sud, #airport, #main_hotel, #bb_1{
+	background: url(/wp-content/themes/jsday/img/separator_thin.png) no-repeat center bottom;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+

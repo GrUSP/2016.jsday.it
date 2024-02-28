@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shwetank Dixit &#8211; jsDay 2016</title>
+	<atom:link href="/speakers/shwetank-dixit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>What we need from the Web, and what it needs from us</title>
+		<link>/talk/what-we-need-from-the-web-and-what-it-needs-from-us/</link>
+		<pubDate>Mon, 09 May 2016 13:02:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=521</guid>
+		<description><![CDATA[It&#8217;s 2016 and we still are talking about native vs web. Shouldn&#8217;t this debate be settled by now? Shouldn&#8217;t the web have won  by now? In many ways it has, but unfortunately, it was missing a few key features which made native appear better in some key aspects. The good news is that we now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>It&#8217;s 2016 and we still are talking about native vs web. Shouldn&#8217;t this debate be settled by now? Shouldn&#8217;t the web have won  by now? In many ways it has, but unfortunately, it was missing a few key features which made native appear better in some key aspects. The good news is that we now have a lot of great things to finally make a viable web app compete with native ones in most of these aspects. With the concept of Progressive Web Apps, the Web is giving us the capability to do more. We&#8217;ll see what exactly we could do with Progressive Web apps to build the future of the web. Along the way, we&#8217;ll see what expectations the Web might have from us, and whether we could measure up to them.</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hunting Treasures with the Physical Web : Adventures with JavaScript and Bluetooth Beacons</title>
+		<link>/talk/hunting-treasures-with-the-physical-web-adventures-with-javascript-and-bluetooth-beacons/</link>
+		<pubDate>Wed, 06 Apr 2016 13:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=484</guid>
+		<description><![CDATA[The number of electronic devices we have around us is gigantic. We need a new interaction model to deal with all these devices, and having a separate native app for each device is impractical. The concept of the ‘Physical Web’ attempts to assign devices with their very own URL, which can be accessed by everyone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The number of electronic devices we have around us is gigantic. We need a new interaction model to deal with all these devices, and having a separate native app for each device is impractical. The concept of the \u2018Physical Web\u2019 attempts to assign devices with their very own URL, which can be accessed by everyone using their web browser. This opens up a lot of possibilities for developers to create new and amazing applications, taking the user\u2019s immediate physical presence into play. We\u2019ll take a look at some use cases, including, but not limited to treasure hunts, contact sharing and indoor navigation. We\u2019ll dive deep into how JavaScript can be used along with Bluetooth-LE and the Eddystone protocol to create great web apps, and understand the concepts at hand.&quot;}" data-sheets-userformat="{&quot;2&quot;:9091,&quot;3&quot;:[null,0],&quot;4&quot;:[null,2,65280],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">The number of electronic devices we have around us is gigantic. We need a new interaction model to deal with all these devices, and having a separate native app for each device is impractical. The concept of the ‘Physical Web’ attempts to assign devices with their very own URL, which can be accessed by everyone using their web browser. This opens up a lot of possibilities for developers to create new and amazing applications, taking the user’s immediate physical presence into play. We’ll take a look at some use cases, including, but not limited to treasure hunts, contact sharing and indoor navigation. We’ll dive deep into how JavaScript can be used along with Bluetooth-LE and the Eddystone protocol to create great web apps, and understand the concepts at hand.</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:17 by W3 Total Cache -->

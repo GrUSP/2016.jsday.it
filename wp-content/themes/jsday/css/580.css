@@ -1,0 +1,171 @@
+/*
+	All devices @ 580 resolution or lower
+*/
+
+/*grid*/
+div#container, div.container {
+	max-width: 560px;
+}
+
+
+/*site_header*/
+#toolbar{
+	height: 57px;
+}
+#past_editions{
+	display: none;	
+}
+#lang{
+	width: 40%;
+	margin-top: 12px;
+}
+	
+#lang ul{
+	width: 100%;
+}
+#lang ul li{
+	margin: 0 6%;
+	float: right;
+}
+
+a#main_logo{
+	width: 50%;
+	top: 0px;
+	left: 2%;
+}
+
+#site_menu{
+	margin-bottom: 0;
+	margin-top: 0;
+	width: 98%;
+}
+
+@media screen and (orientation: landscape){	
+	a#main_logo{
+		width: 45%;
+	}
+	#site_menu{
+		margin-top: 10px;
+	}
+}
+
+#site_menu ul{
+	width: 100%;
+	margin-top: 0;
+}
+/*#site_menu ul li, #site_menu ul li:first-child{
+	margin: 0 0 0 0;
+	font-size: 15px;
+	width: 30%;
+	text-align: right;
+}*/
+
+
+#site_header .reminder{
+	display: none;
+}
+
+/*#content*/
+#content{
+	background-color: transparent;
+	background-image:none;
+	padding-bottom: 20px;
+}
+
+/*claim*/
+#claim h2{
+	display: none;
+}
+
+#claim .reminder{
+	float: none;
+	clear: both;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	background: none;
+}
+#claim .reminder .button.register.big{	
+	clear: left;
+	float: none;
+}
+
+
+/**/
+.main{	
+	width: 98%;
+}
+#content .column_6, #content .column_4{
+	width: 98%;
+	float: none;
+	clear: both !important;
+}
+
+#sponsors .banner{
+	width: 48%;	
+}
+
+.sidebar{	
+	float: none;
+	width: 98%;
+}
+#featured_sponsors{
+	clear: both;
+}
+
+#featured_sponsors a.banner{
+	width: 90%;
+	float: none;
+}
+
+#venue{
+	background: transparent url(/wp-content/themes/jsday/img/separator_thin.png) no-repeat center bottom;
+	padding-bottom: 30px;
+	margin-bottom: 30px;
+}
+
+#news .button.right{
+	float: left!important;
+}
+
+#social_feed .column_4{	
+	margin-bottom: 40px;
+}
+
+
+
+#nletter{
+	margin-bottom: 30px;
+}
+
+.back_top{
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	display: block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+/*site_footer*/
+#site_footer .column_8{
+	width: 70%;
+}
+#logo_grusp{
+	width: 20%;
+	margin: 0 1% 0 0;
+}
+
+
+/*internal pages*/
+.package{
+	min-height: 0px;
+}
+.package ul{
+	min-height: 0px;
+}
+
+.column_3.event_edition{
+	width: 31%;
+}

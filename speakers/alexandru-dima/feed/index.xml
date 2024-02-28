@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alexandru Dima &#8211; jsDay 2016</title>
+	<atom:link href="/speakers/alexandru-dima/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Shipping one of the largest Microsoft JavaScript applications (Visual Studio Code&#8217;s story)</title>
+		<link>/talk/shipping-one-of-the-largest-microsoft-javascript-applications-visual-studio-codes-story/</link>
+		<pubDate>Sat, 23 Apr 2016 07:31:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=510</guid>
+		<description><![CDATA[How can you survive a project that uses JavaScript massively and must be continuously evolved? Visual Studio Code is a cross platform code editor indistinguishable from a native editor, but its code base was not always meant to be for a desktop application. In this talk I will share the key insights that allowed us [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>How can you survive a project that uses JavaScript massively and must be continuously evolved?<br />
+Visual Studio Code is a cross platform code editor indistinguishable from a native editor, but its code base was not always meant to be for a desktop application. In this talk I will share the key insights that allowed us to create a rich code editing experience and that will help you in managing a large, always evolving, JavaScript code base. We will take a deep look into the major steps in the evolution of VS Code from its humble beginning more than 4 years ago to one of the largest TypeScript code bases at more than 350k lines of TypeScript.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:41 by W3 Total Cache -->

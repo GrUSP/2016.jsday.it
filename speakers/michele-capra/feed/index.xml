@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Michele Capra &#8211; jsDay 2016</title>
+	<atom:link href="/speakers/michele-capra/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Microservices in practice with Seneca.js</title>
+		<link>/talk/microservices-in-practice-with-seneca-js/</link>
+		<pubDate>Wed, 06 Apr 2016 13:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=494</guid>
+		<description><![CDATA[Microservice architecture is rapidly changing the way we develop our applications. Small, highly decoupled software component are the foundation of this architecture. But hey that’s the theory. Now how can we apply it in our day to day job? How can we structure our application to unleash the benefit of a microservice architecture? Come to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Microservice architecture is rapidly changing the way we develop our applications. Small, highly decoupled software component are the foundation of this architecture. But hey that’s the theory. Now how can we apply it in our day to day job? How can we structure our application to unleash the benefit of a microservice architecture? Come to my talk and we’ll see an introduction to a real microservice implementation using Seneca.js toolkit. By leveraging plugins, commands and other features available in Seneca.js we’ll see how we can build a microservice application.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Seneca in practice @ Nodeschool</title>
+		<link>/talk/seneca-in-practice-nodeschool/</link>
+		<pubDate>Wed, 06 Apr 2016 13:53:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=493</guid>
+		<description><![CDATA[NodeSchool is a collection of workshops, that helps you learn server-side JavaScript by writing code and solving challenges. This edition will be focused on  seneca-in-practice, a workshop dedicated to discover all the foundation of seneca.js microservices toolkit. During this two hours workshop you’ll explore how to build real microservices thanks to pattern-matching, plugins and command. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>NodeSchool is a collection of workshops, that helps you learn server-side JavaScript by writing code and solving challenges. This edition will be focused on  seneca-in-practice, a workshop dedicated to discover all the foundation of seneca.js microservices toolkit. During this two hours workshop you’ll explore how to build real microservices thanks to pattern-matching, plugins and command. Come with your own laptop with node already installed and be ready to be challenged!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:18 by W3 Total Cache -->

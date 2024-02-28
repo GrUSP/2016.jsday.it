@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>english &#8211; jsDay 2016</title>
+	<atom:link href="/language/english/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>What we need from the Web, and what it needs from us</title>
+		<link>/talk/what-we-need-from-the-web-and-what-it-needs-from-us/</link>
+		<pubDate>Mon, 09 May 2016 13:02:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=521</guid>
+		<description><![CDATA[It&#8217;s 2016 and we still are talking about native vs web. Shouldn&#8217;t this debate be settled by now? Shouldn&#8217;t the web have won  by now? In many ways it has, but unfortunately, it was missing a few key features which made native appear better in some key aspects. The good news is that we now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div>It&#8217;s 2016 and we still are talking about native vs web. Shouldn&#8217;t this debate be settled by now? Shouldn&#8217;t the web have won  by now? In many ways it has, but unfortunately, it was missing a few key features which made native appear better in some key aspects. The good news is that we now have a lot of great things to finally make a viable web app compete with native ones in most of these aspects. With the concept of Progressive Web Apps, the Web is giving us the capability to do more. We&#8217;ll see what exactly we could do with Progressive Web apps to build the future of the web. Along the way, we&#8217;ll see what expectations the Web might have from us, and whether we could measure up to them.</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>16 Milliseconds or Bust</title>
+		<link>/talk/16-milliseconds-or-bust/</link>
+		<pubDate>Mon, 09 May 2016 12:56:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=520</guid>
+		<description><![CDATA[It&#8217;s never been more important for your web page to maintain a silky-smooth 60 frames per second. That means there&#8217;s only 16 milliseconds for Javascript to execute between each frame. We&#8217;ll learn several techniques for improving UI performance by stopping Javascript from blocking UI updates.]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s never been more important for your web page to maintain a silky-smooth 60 frames per second. That means there&#8217;s only 16 milliseconds for Javascript to execute between each frame. We&#8217;ll learn several techniques for improving UI performance by stopping Javascript from blocking UI updates.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Building Graphical Command Line Apps</title>
+		<link>/talk/building-graphical-command-line-apps/</link>
+		<pubDate>Mon, 09 May 2016 12:54:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=519</guid>
+		<description><![CDATA[It is not uncommon for people to think of the command line as an ancient, impenetrable and impossible interface to get any real work done. Even if you are a veteran vim user, the thought of actually creating anything other than a single line, argument based interface will probably seem like something out of reach [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It is not uncommon for people to think of the command line as an ancient, impenetrable and impossible interface to get any real work done. Even if you are a veteran vim user, the thought of actually creating anything other than a single line, argument based interface will probably seem like something out of reach for almost anyone. Not so! Using nothing but JavaScript, you can create rich, compelling, command line interfaces that leverage keyboard and mouse input, and more!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>A Class Action</title>
+		<link>/talk/a-class-action/</link>
+		<pubDate>Thu, 05 May 2016 12:46:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=517</guid>
+		<description><![CDATA[A dispute on probably the most controversial feature in ES2016 leads us back to age old questions at the base of the most common practices of the development universe. Do the &#8220;sacred laws&#8221; still apply?]]></description>
+				<content:encoded><![CDATA[<p>A dispute on probably the most controversial feature in ES2016 leads us back to age old questions at the base of the most common practices of the development universe.</p>
+<p>Do the &#8220;sacred laws&#8221; still apply?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Shipping one of the largest Microsoft JavaScript applications (Visual Studio Code&#8217;s story)</title>
+		<link>/talk/shipping-one-of-the-largest-microsoft-javascript-applications-visual-studio-codes-story/</link>
+		<pubDate>Sat, 23 Apr 2016 07:31:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=510</guid>
+		<description><![CDATA[How can you survive a project that uses JavaScript massively and must be continuously evolved? Visual Studio Code is a cross platform code editor indistinguishable from a native editor, but its code base was not always meant to be for a desktop application. In this talk I will share the key insights that allowed us [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>How can you survive a project that uses JavaScript massively and must be continuously evolved?<br />
+Visual Studio Code is a cross platform code editor indistinguishable from a native editor, but its code base was not always meant to be for a desktop application. In this talk I will share the key insights that allowed us to create a rich code editing experience and that will help you in managing a large, always evolving, JavaScript code base. We will take a deep look into the major steps in the evolution of VS Code from its humble beginning more than 4 years ago to one of the largest TypeScript code bases at more than 350k lines of TypeScript.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Out of the browser and onto the streets</title>
+		<link>/talk/out-of-the-browser-and-onto-the-streets/</link>
+		<pubDate>Wed, 06 Apr 2016 13:55:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=496</guid>
+		<description><![CDATA[JavaScript is everywhere! It’s jumped out the browser and into the world around us. You can find it in hardware, music, art, museums and even on aircraft! In this interactive talk we take a look at a project which took JavaScript to the streets, projecting live visuals to music in a *Portable Audio Visual Pack*. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JavaScript is everywhere! It\u2019s jumped out the browser and into the world around us. You can find it in hardware, music, art, museums and even on aircraft! In this interactive talk we take a look at a project which took JavaScript to the streets, projecting live visuals to music in a *Portable Audio Visual Pack*. We\u2019ll break down the software built for the project, which involves audio triggered visuals using the Web Audio API and Web Animation API, with anything you can think of to build in the browser: pure HTML &amp;amp; CSS, SVG and canvas, plus video and images. Then we learn how to mix these visuals, to music, live! You\u2019ll even have a chance to get involve yourself, using your own device - it is the web after all. How do you pick this all up and carry it around the streets you ask? Don\u2019t worry we\u2019ll cover that too. Come and play with some fabulous street art code - it\u2019ll be fun, you\u2019ll learn some cool JavaScript and you\u2019ll be inspired.&quot;}" data-sheets-userformat="{&quot;2&quot;:9089,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">JavaScript is everywhere! It’s jumped out the browser and into the world around us. You can find it in hardware, music, art, museums and even on aircraft! In this interactive talk we take a look at a project which took JavaScript to the streets, projecting live visuals to music in a *Portable Audio Visual Pack*. We’ll break down the software built for the project, which involves audio triggered visuals using the Web Audio API and Web Animation API, with anything you can think of to build in the browser: pure HTML &amp;amp; CSS, SVG and canvas, plus video and images. Then we learn how to mix these visuals, to music, live! You’ll even have a chance to get involve yourself, using your own device &#8211; it is the web after all. How do you pick this all up and carry it around the streets you ask? Don’t worry we’ll cover that too. Come and play with some fabulous street art code &#8211; it’ll be fun, you’ll learn some cool JavaScript and you’ll be inspired.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Microservices in practice with Seneca.js</title>
+		<link>/talk/microservices-in-practice-with-seneca-js/</link>
+		<pubDate>Wed, 06 Apr 2016 13:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=494</guid>
+		<description><![CDATA[Microservice architecture is rapidly changing the way we develop our applications. Small, highly decoupled software component are the foundation of this architecture. But hey that’s the theory. Now how can we apply it in our day to day job? How can we structure our application to unleash the benefit of a microservice architecture? Come to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Microservice architecture is rapidly changing the way we develop our applications. Small, highly decoupled software component are the foundation of this architecture. But hey that’s the theory. Now how can we apply it in our day to day job? How can we structure our application to unleash the benefit of a microservice architecture? Come to my talk and we’ll see an introduction to a real microservice implementation using Seneca.js toolkit. By leveraging plugins, commands and other features available in Seneca.js we’ll see how we can build a microservice application.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Seneca in practice @ Nodeschool</title>
+		<link>/talk/seneca-in-practice-nodeschool/</link>
+		<pubDate>Wed, 06 Apr 2016 13:53:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=493</guid>
+		<description><![CDATA[NodeSchool is a collection of workshops, that helps you learn server-side JavaScript by writing code and solving challenges. This edition will be focused on  seneca-in-practice, a workshop dedicated to discover all the foundation of seneca.js microservices toolkit. During this two hours workshop you’ll explore how to build real microservices thanks to pattern-matching, plugins and command. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>NodeSchool is a collection of workshops, that helps you learn server-side JavaScript by writing code and solving challenges. This edition will be focused on  seneca-in-practice, a workshop dedicated to discover all the foundation of seneca.js microservices toolkit. During this two hours workshop you’ll explore how to build real microservices thanks to pattern-matching, plugins and command. Come with your own laptop with node already installed and be ready to be challenged!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Building Event-driven Serverless Applications</title>
+		<link>/talk/building-event-driven-serverless-applications/</link>
+		<pubDate>Wed, 06 Apr 2016 13:53:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=492</guid>
+		<description><![CDATA[We built event-driven user interfaces for decades. What about bringing the same approach to mobile, web, and IoT backend applications? You have to understand how data flows and what is the propagation of changes, using reactive programming techniques. You can focus on the core functionalities to build and the relationship among the resources you use, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;We built event-driven user interfaces for decades. What about bringing the same approach to mobile, web, and IoT backend applications? You have to understand how data flows and what is the propagation of changes, using reactive programming techniques. You can focus on the core functionalities to build and the relationship among the resources you use, using Node.js (among other languages) for the implementation. Your application behaves similarly to a \u201cspreadsheet\u201d, where depending resources are updated automatically when something \u201chappens\u201d, and is decomposed into scalable microservices without having to manage the infrastructure. The resulting architecture is efficient and cost effective to run on AWS and managing availability, scalability and security becomes part of the implementation itself.&quot;}" data-sheets-userformat="{&quot;2&quot;:9089,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">We built event-driven user interfaces for decades. What about bringing the same approach to mobile, web, and IoT backend applications? You have to understand how data flows and what is the propagation of changes, using reactive programming techniques. You can focus on the core functionalities to build and the relationship among the resources you use, using Node.js (among other languages) for the implementation. Your application behaves similarly to a “spreadsheet”, where depending resources are updated automatically when something “happens”, and is decomposed into scalable microservices without having to manage the infrastructure. The resulting architecture is efficient and cost effective to run on AWS and managing availability, scalability and security becomes part of the implementation itself.</span></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Modern Websites for the Modern Web</title>
+		<link>/talk/modern-websites-for-the-modern-web/</link>
+		<pubDate>Wed, 06 Apr 2016 13:52:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=491</guid>
+		<description><![CDATA[It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won&#8217;t be able to use them for years &#8211; right? Wrong. Patrick Kettner, the lead developer on Modernizr and PM for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won't be able to use them for years - right? Wrong. Patrick Kettner, the lead developer on Modernizr and PM for Microsoft Edge, will go over how creating feature rich and super fast front end applications, integrating over a dozen cutting edge web features, all while supporting even the oldest of web clients. If you want to see a 100% clientside offline enabled application work in every browser to Mosiac, and even be ported to a command line GUI (yes GUI), come check it out!&quot;}" data-sheets-userformat="{&quot;2&quot;:9089,&quot;3&quot;:[null,0],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">It seems like new APIs for the web are released every week. It would be cool to be able to use them, but if you need to make websites for the average user, you won&#8217;t be able to use them for years &#8211; right? Wrong. Patrick Kettner, the lead developer on Modernizr and PM for Microsoft Edge, will go over how creating feature rich and super fast front end applications, integrating over a dozen cutting edge web features, all while supporting even the oldest of web clients. If you want to see a 100% clientside offline enabled application work in every browser to Mosiac, and even be ported to a command line GUI (yes GUI), come check it out!</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:33 by W3 Total Cache -->

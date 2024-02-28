@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Olga Madejska &#8211; jsDay 2016</title>
+	<atom:link href="/speakers/olga-madejska/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Wed, 11 May 2016 15:18:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>(Web?) Components in production</title>
+		<link>/talk/web-components-in-production/</link>
+		<pubDate>Wed, 06 Apr 2016 13:42:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=481</guid>
+		<description><![CDATA[Today the AWS Management Console is created by more than 60 different teams across the world. Each team develops their part of the UI using a wide range of development frameworks and programming languages. This leads to a huge amount of effort spent on creating the same widget set over and over. It also lowers [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Today the AWS Management Console is created by more than 60 different teams across the world. Each team develops their part of the UI using a wide range of development frameworks and programming languages. This leads to a huge amount of effort spent on creating the same widget set over and over. It also lowers the customer experience by having slight differences from page to page. Our team is solving this challenge with a set of framework agnostic components. Initially we started with the idea of the extensible web and web components. However, along the way we learned that we have take a different route. I'll show the unique problems caused by the environment we run in, and how we solved them. I will also go into the technical details of our solution and show how we use our components with other frameworks including GWT, Angular, and React.&quot;}" data-sheets-userformat="{&quot;2&quot;:9091,&quot;3&quot;:[null,0],&quot;4&quot;:[null,2,65280],&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}">Today the AWS Management Console is created by more than 60 different teams across the world. Each team develops their part of the UI using a wide range of development frameworks and programming languages. This leads to a huge amount of effort spent on creating the same widget set over and over. It also lowers the customer experience by having slight differences from page to page. Our team is solving this challenge with a set of framework agnostic components. Initially we started with the idea of the extensible web and web components. However, along the way we learned that we have take a different route. I&#8217;ll show the unique problems caused by the environment we run in, and how we solved them. I will also go into the technical details of our solution and show how we use our components with other frameworks including GWT, Angular, and React.</span></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2016.jsday.it @ 2017-02-13 21:20:39 by W3 Total Cache -->
